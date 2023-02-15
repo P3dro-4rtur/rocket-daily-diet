@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "daily-diet",
+    "slug": "daily-diet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
